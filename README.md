@@ -1,5 +1,5 @@
 # METRICS-ROC-AND-AUC
-Python code to obtain metrics like receiver operating characteristics (ROC) curve and area under the curve (AUC) from scratch without using in-built functions.\  
+Python code to obtain metrics like receiver operating characteristics (ROC) curve and area under the curve (AUC) from scratch without using in-built functions.
 __Libraries used:__ \
 ->scipy.io for loading the data from .mat files\
 ->matplotlib.pyplot for plotting the roc curve\
